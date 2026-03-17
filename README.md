@@ -25,7 +25,7 @@
 
 > **Published at IEEE** | MITS DU, Gwalior, India
 >
-> Ayan Ahmed Khan · Jalaj Sharma · Kaushal Pratap Sengar
+> Ayan Ahmed Khan
 
 <br/>
 
@@ -414,8 +414,7 @@ If you find this work useful, please cite:
 @article{khan2025masanet,
   title     = {MASA-Net v2: Multi-scale Attention Self-Augmentation Network
                for Pneumonia Detection on PneumoniaMNIST},
-  author    = {Khan, Ayan Ahmed and Sharma, Jalaj and Sengar, Kaushal Pratap},
-  journal   = {IEEE Transactions on Medical Imaging},
+  author    = {Khan, Ayan Ahmed},
   year      = {2025},
   institution = {Centre of Internet of Things, MITS DU, Gwalior, India}
 }
